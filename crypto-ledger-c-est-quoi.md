@@ -1,5 +1,3 @@
-# Ledger Wallet : Comment ca marche ?
-
 ![Ledger-Wallet-Ledger-Nano-S-Cryptocurrency-hardware-wallet.png](https://steemitimages.com/DQmRnsJ4gDq5WekrYnAc8JFTvneTG4kWKoRfbNQjKRwCsSA/Ledger-Wallet-Ledger-Nano-S-Cryptocurrency-hardware-wallet.png)
 
 Vos avoirs (BTC, ETH, etc) sont définis par deux informations : une clé publique et une clé privée. Pour faire très simple :
